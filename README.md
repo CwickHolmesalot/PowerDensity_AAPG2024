@@ -1,9 +1,9 @@
-#PowerDensity_AAPG2024
-Rethinking Power Density for Geothermal Resource Estimation
-[doi: 10.1306/01142524055](https://doi.org/10.1306/01142524055)
+# PowerDensity_AAPG2024<br>
+Rethinking Power Density for Geothermal Resource Estimation<br>
+[doi: 10.1306/01142524055](https://doi.org/10.1306/01142524055)<br>
 source code and data
 
-##Abstract
+## Abstract
 Two approaches are commonly used when calculating the power potential of new geothermal opportunities: the US Geological 
 Survey Heat-In-Place method, which requires inputs that may be challenging to determine for new prospects, and the power 
 density (PD) method, which yields analogue-based estimates from reservoir temperature, production area, and a tectonic setting.
