@@ -1,7 +1,7 @@
-# PowerDensity_AAPG2024<br>
-Rethinking Power Density for Geothermal Resource Estimation<br>
+# Rethinking Power Density for Geothermal Resource Estimation<br>
+## Source Code & Data<br>
+Authors: R. Chadwick Holmes and Laura Huebner<br>
 [doi: 10.1306/01142524055](https://doi.org/10.1306/01142524055)<br>
-source code and data
 
 ## Abstract
 Two approaches are commonly used when calculating the power potential of new geothermal opportunities: the US Geological 
@@ -18,3 +18,7 @@ role in these estimators, consistent with the global average geotherm describing
 zones are also identified as a geothermally distinct tectonic setting, which contrasts with the subset of “hot arcs” highlighted by
 the PD method. These findings suggest a need to reevaluate the use of map-based methods like PD for power estimation, particularly 
 when the complexities of the subsurface take three dimensions to fully describe.
+
+## Note 
+Source data are shared in shareable_data_files.zip, except for data from Rystad Energy's GeothermalCube (subscription-only) and 
+WorldClim 2.1 grid files available for download at https://www.worldclim.org/data/worldclim21.html.
